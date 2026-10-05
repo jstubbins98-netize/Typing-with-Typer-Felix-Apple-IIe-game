@@ -4,17 +4,6 @@ this is an edutainment game in the style of ones from the early 80s designed to 
 
 note: no AI was used to code this game! it was all written in C and then compiled with cc65 and applecommader.
 
-## Start here: bootable disk
-
-Use **`typer-felix-bootable.po`**, not the earlier data-only disk.
-Insert it in **drive 1**, then choose your emulator's **cold boot / power cycle**
-command. Felix starts automatically after ProDOS loads. No second disk,
-BASIC prompt, or typing of startup commands is needed.
-
-Use an Apple IIe configuration at normal 1 MHz speed. Gazette mode needs
-an 80-column card. If you are at the `*` monitor prompt from the old disk,
-replace the disk and **cold boot**, rather than just pressing Return.
-
 ## What is included
 
 - **Home Row Fish Market:** twelve drifting, letter-labelled fish; practice
