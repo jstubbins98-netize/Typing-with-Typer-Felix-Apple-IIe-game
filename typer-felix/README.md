@@ -1,7 +1,8 @@
 # Typing with Typer Felix
 
-A native **Apple IIe game in C**, compiled with **cc65**, based on the supplied
-“Typing with typer Felix” concept. This is not a browser imitation.
+this is an edutainment game in the style of ones from the early 80s designed to teach kids how to type this game was designed for the Apple IIe (with an 80-column card installed) and the idea is that typer Felix (an orange cat) has hired you as his apprentice and now you must complete tasks around the village while learning how to type.
+
+note: no AI was used to code this game! it was all written in C and then compiled with cc65 and applecommader.
 
 ## Start here: bootable disk
 
@@ -194,3 +195,5 @@ in this environment.
 This release does not implement double hi-res, disk-persistent profiles,
 custom text entry, or a music tracker. The speaker sounds are intentionally
 short so typing remains responsive.
+
+## game is also available on itch.io for free at this [link](https://doctor-retro-g.itch.io/typing-with-typer-felix)
