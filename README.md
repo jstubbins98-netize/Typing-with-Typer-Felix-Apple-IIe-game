@@ -46,7 +46,7 @@ Install cc65, GNU Make and Node.js (Node is only needed for disk packaging).
 The required commands are:
 
 ```sh
-cd native/typer-felix
+cd ~/typer-felix
 make
 make disk
 make check
